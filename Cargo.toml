@@ -1,6 +1,6 @@
 [package]
 name = "auto-add-lifetimes-to-impl"
-version = "0.0.0"
+version = "0.1.0"
 edition = "2018"
 description = "Automatically add lifetimes to impl given the trait, structure or any arguments have lifetime arguments. Mainly for use in macros"
 authors = [ "Ben <kaleidawave@gmail.com>" ]
